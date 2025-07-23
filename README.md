@@ -1,20 +1,13 @@
+<div align="center">
+
 # Olá! Meu nome é Isaque!
 
-Desde criança, sou apaixonado por tecnologia, com um interesse inicial em jogos que me levou à programação. No último ano, mergulhei no estudo de Python, HTML, CSS, JavaScript, MongoDB e Lua e estou entusiasmado com as possibilidades que essas tecnologias oferecem.
-##
-
-<div align="center">
-    
 ### Contatos:
 
 <div>
   <a href="https://www.linkedin.com/in/isaqueaf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    isaqueaf9307286@gmail.com
-  </div>
 </div>
 
 ### Tecnologias:
@@ -48,11 +41,11 @@ Desde criança, sou apaixonado por tecnologia, com um interesse inicial em jogos
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueAF&locale=pt-br&show_icons=true&bg_color=00000000&theme=dark#gh-dark-mode-only" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueAF&show_icons=true&theme=default#gh-light-mode-only" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueAF&locale=pt-br&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&bg_color=00000000&theme=dark#gh-dark-mode-only" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueAF&locale=pt-br&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&theme=default#gh-light-mode-only" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueAF&locale=pt-br&show_icons=true&bg_color=00000000&theme=dark" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueAF&locale=pt-br&layout=compact&card_width=320&langs_count=5&order=2&bg_color=00000000&theme=dark" height="150" alt="languages graph"/>
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaqueAF/IsaqueAF/output/pacman-contribution-graph-dark.svg">
