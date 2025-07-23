@@ -2,6 +2,12 @@
 
 # Olá! Meu nome é Isaque!
 
+<div align="left">
+Desde criança, sou apaixonado por tecnologia, com um interesse inicial em jogos que me levou à programação. No último ano, mergulhei no estudo de Python, HTML, CSS, JavaScript, MongoDB e Lua e estou entusiasmado com as possibilidades que essas tecnologias oferecem.
+</div>
+
+##
+
 ### Contatos:
 
 <div>
